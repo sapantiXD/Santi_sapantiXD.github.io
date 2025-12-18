@@ -1,8 +1,8 @@
 # Crea-un-repositori-Principal
 ENLACES DE LOS TRABAJOS:
 
-1. PRUEBA 480: https://github.com/sapantiXD/PRUEBA-480-SANTIAGO-RODILLA-MART-
+<p>PRUEBA 480: <a href="https://github.com/sapantiXD/PRUEBA-480-SANTIAGO-RODILLA-MART-">https://github.com/sapantiXD/PRUEBA-480-SANTIAGO-RODILLA-MART-</a></p>
 
-2. MOZILLA: https://github.com/sapantiXD/FIREFOX
+<p>MOZILLA: <a href="https://github.com/sapantiXD/FIREFOX">https://github.com/sapantiXD/FIREFOX</a></p>
 
-3. ODIGO DE MUESTRA: https://github.com/sapantiXD/FIREFOX
+<p>CODIGO DE MUESTRA: <a href="https://github.com/sapantiXD/FIREFOX">https://github.com/sapantiXD/FIREFOX</a></p>
